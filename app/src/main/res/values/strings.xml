@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jigsaw puzzle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="init_level">1</string>
+    <string name="init_time">50</string>
+    <string name="title_activity_main">Jigsaw puzzle</string>
+    <string name="title">Put together a good memory</string>
+	<string name="message1">There is a chase: Fighting</string>
+	<string name="message2">There is a kind of insistence: Kobe</string>
+	<string name="message3">There is a belief:24</string>
+	<string name="message4">Put together beautiful memories</string>
+	
+</resources>
